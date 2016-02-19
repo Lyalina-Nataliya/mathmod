@@ -13,3 +13,6 @@ f=c(1,0,T)
 plot(density(rnorm(1:100)),col="red")
 #логические операторы
 # двоейное равно(==)
+#factor-групируемый вектор
+#summary-
+#ratio=summary(x)/(sum(summary(x)))
